@@ -1,6 +1,6 @@
-Title: Adding More Monero Development Video Tutorials 
+# Title: Adding More Monero Development Video Tutorials 
 
-Content:
+# Content:
 
 When it comes to the development of Monero - you have at least 2 distinct parts:
 
