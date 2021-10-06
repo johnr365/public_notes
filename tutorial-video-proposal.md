@@ -19,9 +19,9 @@ These would walk the user through some basic, but essential functions, that they
 
 Using popular languages such as Python and Javascript.
 
-## For example:
+## Examples of the types of videos needed:
 
-How to connect to the RPC*
+* How to connect to the RPC*
 
 In the scenario of a membership site:
 
