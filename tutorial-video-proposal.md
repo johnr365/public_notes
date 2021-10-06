@@ -9,7 +9,7 @@ When it comes to the development of Monero - you have at least 2 distinct parts:
 
 #1 is generally going well.
 
-#2 - I hope we can accelerate.
+#2 - I hope we can grow more.
 
 ## How?
 
