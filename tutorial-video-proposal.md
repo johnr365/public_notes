@@ -45,8 +45,15 @@ In the scenario of an eCommerce store:
 
 2) We run a competition. So for example, we specify the videos we want created by x date, and offer the best 2 versions of these y amount of Monero
 
-A working example of #2 is the email newsletter Balajis Srinivasan sends out [1729.com](https://1729.com/all) - which sets **tasks** that readers can complete for payment in Bitcoin.
+A working crypto example of #2 is the email newsletter Balajis Srinivasan sends out via [1729.com](https://1729.com/all). They set **tasks** that readers can complete for payment in Bitcoin.
 
 I'm in favour of #2 personally.
 
-Let me know your thoughts?
+I'm curious to hear from you:
+
+1) If this sounds useful?
+2) How you might improve/adjust the idea?
+3) How much Monero we should pay per video?
+4) If you'd be interested in supporting this with a donation?
+
+Personally I don't have the development skillset to create these videos, but I'm confident there are Monero enthusiast who do! 
