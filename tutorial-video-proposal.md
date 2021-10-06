@@ -33,9 +33,9 @@ In the scenario of an eCommerce store:
 
 * Again, creating subaddresses per user
 * Checking if the payment has been received
-* Allowing you to update the interface based on payment status
+* Allowing you to update the user interface based on payment status
 
-*YouTuber elibro has already made a [good example](https://www.youtube.com/watch?v=55zn419eFcY) of this for Python
+*YouTuber elibro has already made a [good example of connecting to the RPC](https://www.youtube.com/watch?v=55zn419eFcY) in Python
 
 ## How do we acheive this?
 
