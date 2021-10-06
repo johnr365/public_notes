@@ -5,11 +5,11 @@
 When it comes to the development of Monero - you have at least 2 distinct parts:
 
 1) The protocol itself, written in C++, and implemented by the wallets and daemon that users and miners use.
-2) The applications built to utilise Monero.
+2) The applications built to utilise the protocol. Current examples include exchanges, eCommerce sites and gambling games that utilize Monero.
 
 #1 is generally going well.
 
-#2 - I hope we can accelerate
+#2 - I hope we can accelerate.
 
 ## How?
 
