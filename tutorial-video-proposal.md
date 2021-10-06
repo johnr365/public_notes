@@ -45,6 +45,8 @@ In the scenario of an eCommerce store:
 
 2) We run a competition. So for example, we specify the videos we want created by x date, and offer the best 2 versions of these y amount of Monero
 
+A working example of #2 is the email newsletter Balajis Srinivasan sends out [1729.com](https://1729.com/all) - which sets **tasks** that readers can complete for payment in Bitcoin.
+
 I'm in favour of #2 personally.
 
 Let me know your thoughts?
