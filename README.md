@@ -11,7 +11,7 @@ When it comes to the development of Monero - you have at least 2 distinct parts:
 
 #2 - I hope we can accelerate
 
-**How?**
+## How?
 
 I’m proposing we expand the quantity of YouTube tutorial vidoes (mirrored to decentralised YT alternatives)
 
@@ -19,7 +19,7 @@ These would walk the user through some basic, but essential functions, that they
 
 Using popular languages such as Python and Javascript.
 
-**For example:**
+## For example:
 
 How to connect to the RPC*
 
@@ -37,7 +37,7 @@ In the scenario of an eCommerce store:
 
 *YouTuber elibro has already made a good example of this for Python
 
-**How do we acheive this?**
+## How do we acheive this?
 
 2 options:
 
